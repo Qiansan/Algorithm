@@ -1,7 +1,7 @@
 # Algorithm
 Maze Problem:
 Find the path in a maze from the start point to the end point.
-The input should look like:
+An example input is in below:
 
 5 5
 
