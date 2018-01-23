@@ -2,6 +2,7 @@
 Maze Problem:
 Find the path in a maze from the start point to the end point.
 The input should look like:
+
 5 5
 
 1 0 0 0 1
